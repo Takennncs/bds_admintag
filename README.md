@@ -1,7 +1,7 @@
-# relisoft_users
+# admin_tag
 ### ESX users visible ID and name around you
 
-Our discord with more scripts: https://discord.gg/F28PfsY 
+Our discord with more scripts: https://discord.gg/tCUxhgzqFd
 
 **Dependencies:**
 - es_extended
